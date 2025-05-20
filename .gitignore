@@ -1,0 +1,11 @@
+# Virtual env
+.venv
+
+# Editor and IDE
+.idea
+
+# Cache
+__pycache__/
+
+# tools
+tools/

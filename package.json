@@ -1,0 +1,12 @@
+{
+  "name": "fastformat",
+  "version": "0.0.0",
+  "description": "Programa para realizar conversiones de formato en archivos de video y audio",
+  "license": "ISC",
+  "author": "LuisSteel07",
+  "type": "commonjs",
+  "main": "main.py",
+  "scripts": {
+    "dev": "flet main.py"
+  }
+}

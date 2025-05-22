@@ -2,7 +2,7 @@
   "name": "fastformat",
   "version": "0.0.0",
   "description": "Programa para realizar conversiones de formato en archivos de video y audio",
-  "license": "ISC",
+  "license": "CC BY-NC-ND 4.0",
   "author": "LuisSteel07",
   "type": "commonjs",
   "main": "main.py",

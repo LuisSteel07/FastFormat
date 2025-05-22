@@ -9,3 +9,6 @@ __pycache__/
 
 # tools
 tools/
+
+# temp ignored files
+NEWS.md
